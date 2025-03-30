@@ -1,0 +1,257 @@
+2025-03-30 17:25:10,458 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 17:25:10,459 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 17:25:10,899 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 17:25:10,900 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 17:25:10,908 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 17:25:10,908 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 17:25:10,911 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 17:25:10,912 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 17:27:58,048 - __main__ - INFO - Service arrêté manuellement
+2025-03-30 17:27:59,172 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 17:27:59,172 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 17:27:59,462 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 17:27:59,463 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 17:27:59,467 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 17:27:59,467 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 17:27:59,468 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 17:27:59,468 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 17:28:03,196 - __main__ - INFO - Service arrêté manuellement
+2025-03-30 17:38:35,455 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 17:38:35,456 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 17:38:35,456 - __main__ - INFO - Utilisation de données factices pour le test
+2025-03-30 17:38:37,951 - __main__ - INFO - Email envoyé à 1 destinataire(s)
+2025-03-30 17:38:37,953 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 17:38:37,953 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 17:38:37,955 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 17:38:37,955 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 17:41:37,816 - __main__ - INFO - Service arrêté manuellement
+2025-03-30 17:46:25,978 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 17:46:25,978 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 17:46:26,274 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 17:46:26,274 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 17:46:26,278 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 17:46:26,278 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 17:46:26,278 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 17:46:26,278 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 17:47:01,507 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 17:47:01,507 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 17:47:01,753 - __main__ - INFO - Réponse de l'API: {'Global Quote': {'01. symbol': 'XAUUSD', '02. open': '3055.6200', '03. high': '3086.9000', '04. low': '3055.1200', '05. price': '3085.3700', '06. volume': '0', '07. latest trading day': '2025-03-28', '08. previous close': '3055.7900', '09. change': '29.5800', '10. change percent': '0.9680%'}}
+2025-03-30 17:47:01,753 - __main__ - INFO - Prix de l'or récupéré: $3085.3700 à 2025-03-30 17:47:01
+2025-03-30 17:47:04,271 - __main__ - INFO - Email envoyé à 2 destinataire(s)
+2025-03-30 17:47:04,277 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 17:47:04,277 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 17:47:04,278 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 17:47:04,278 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 17:47:19,869 - __main__ - INFO - Service arrêté manuellement
+2025-03-30 17:56:26,279 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 17:56:26 CEST)" (scheduled at 2025-03-30 17:56:26.277954+02:00)
+2025-03-30 17:56:26,280 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 17:56:26,659 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 17:56:26,659 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 17:56:26,660 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:06:26 CEST)" executed successfully
+2025-03-30 17:58:04,594 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 17:58:04,594 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 17:58:04,861 - __main__ - INFO - Réponse de l'API: {'Global Quote': {'01. symbol': 'XAUUSD', '02. open': '3055.6200', '03. high': '3086.9000', '04. low': '3055.1200', '05. price': '3085.3700', '06. volume': '0', '07. latest trading day': '2025-03-28', '08. previous close': '3055.7900', '09. change': '29.5800', '10. change percent': '0.9680%'}}
+2025-03-30 17:58:04,862 - __main__ - INFO - Prix de l'or récupéré: $3085.3700 à 2025-03-30 17:58:04
+2025-03-30 17:58:05,519 - __main__ - ERROR - Erreur lors de l'envoi de l'email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-43d8fba3ed8sm96430585e9.6 - gsmtp')
+2025-03-30 17:58:05,521 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 17:58:05,521 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 17:58:05,522 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 17:58:05,522 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 18:06:26,318 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:16:26 CEST)" (scheduled at 2025-03-30 18:06:26.277954+02:00)
+2025-03-30 18:06:26,320 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:06:26,604 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 18:06:26,605 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 18:06:26,605 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:16:26 CEST)" executed successfully
+2025-03-30 18:08:05,568 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:08:05 CEST)" (scheduled at 2025-03-30 18:08:05.521198+02:00)
+2025-03-30 18:08:05,569 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:08:05,817 - __main__ - INFO - Réponse de l'API: {'Global Quote': {'01. symbol': 'XAUUSD', '02. open': '3055.6200', '03. high': '3086.9000', '04. low': '3055.1200', '05. price': '3085.3700', '06. volume': '0', '07. latest trading day': '2025-03-28', '08. previous close': '3055.7900', '09. change': '29.5800', '10. change percent': '0.9680%'}}
+2025-03-30 18:08:05,817 - __main__ - INFO - Prix de l'or récupéré: $3085.3700 à 2025-03-30 18:08:05
+2025-03-30 18:08:07,864 - __main__ - INFO - Email envoyé à 1 destinataire(s)
+2025-03-30 18:08:07,864 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:18:05 CEST)" executed successfully
+2025-03-30 18:16:26,288 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:26:26 CEST)" (scheduled at 2025-03-30 18:16:26.277954+02:00)
+2025-03-30 18:16:26,290 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:16:26,707 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 18:16:26,708 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 18:16:26,708 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:26:26 CEST)" executed successfully
+2025-03-30 18:18:05,527 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:28:05 CEST)" (scheduled at 2025-03-30 18:18:05.521198+02:00)
+2025-03-30 18:18:05,527 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:18:05,873 - __main__ - INFO - Réponse de l'API: {'Global Quote': {'01. symbol': 'XAUUSD', '02. open': '3055.6200', '03. high': '3086.9000', '04. low': '3055.1200', '05. price': '3085.3700', '06. volume': '0', '07. latest trading day': '2025-03-28', '08. previous close': '3055.7900', '09. change': '29.5800', '10. change percent': '0.9680%'}}
+2025-03-30 18:18:05,874 - __main__ - INFO - Prix de l'or récupéré: $3085.3700 à 2025-03-30 18:18:05
+2025-03-30 18:18:07,969 - __main__ - INFO - Email envoyé à 1 destinataire(s)
+2025-03-30 18:18:07,970 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:28:05 CEST)" executed successfully
+2025-03-30 18:20:47,791 - __main__ - INFO - Service arrêté manuellement
+2025-03-30 18:20:54,829 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 18:20:54,829 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:20:55,113 - __main__ - INFO - Réponse de l'API: {'Global Quote': {'01. symbol': 'XAUUSD', '02. open': '3055.6200', '03. high': '3086.9000', '04. low': '3055.1200', '05. price': '3085.3700', '06. volume': '0', '07. latest trading day': '2025-03-28', '08. previous close': '3055.7900', '09. change': '29.5800', '10. change percent': '0.9680%'}}
+2025-03-30 18:20:55,114 - __main__ - INFO - Prix de l'or récupéré: $3085.3700 à 2025-03-30 18:20:55
+2025-03-30 18:20:56,152 - __main__ - ERROR - Erreur lors de l'envoi de l'email: (450, b'The to recipient limit is exceeded. #MS42205 The to recipient limit is exceeded. #MS42205')
+2025-03-30 18:20:56,160 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 18:20:56,161 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 18:20:56,162 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 18:20:56,162 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 18:21:47,175 - __main__ - INFO - Service arrêté manuellement
+2025-03-30 18:21:48,737 - __main__ - INFO - Démarrage du service de suivi du prix de l'or
+2025-03-30 18:21:48,738 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:21:48,992 - __main__ - INFO - Réponse de l'API: {'Global Quote': {'01. symbol': 'XAUUSD', '02. open': '3055.6200', '03. high': '3086.9000', '04. low': '3055.1200', '05. price': '3085.3700', '06. volume': '0', '07. latest trading day': '2025-03-28', '08. previous close': '3055.7900', '09. change': '29.5800', '10. change percent': '0.9680%'}}
+2025-03-30 18:21:48,993 - __main__ - INFO - Prix de l'or récupéré: $3085.3700 à 2025-03-30 18:21:48
+2025-03-30 18:21:49,900 - __main__ - INFO - Email envoyé à 1 destinataire(s)
+2025-03-30 18:21:49,907 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-30 18:21:49,907 - __main__ - INFO - Le planificateur a démarré. Appuyez sur Ctrl+C pour quitter.
+2025-03-30 18:21:49,908 - apscheduler.scheduler - INFO - Added job "job" to job store "default"
+2025-03-30 18:21:49,909 - apscheduler.scheduler - INFO - Scheduler started
+2025-03-30 18:24:01,888 - __main__ - INFO - Service arrêté manuellement
+2025-03-30 18:26:26,283 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:36:26 CEST)" (scheduled at 2025-03-30 18:26:26.277954+02:00)
+2025-03-30 18:26:26,283 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:26:26,621 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 18:26:26,622 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 18:26:26,622 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:36:26 CEST)" executed successfully
+2025-03-30 18:36:26,278 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:46:26 CEST)" (scheduled at 2025-03-30 18:36:26.277954+02:00)
+2025-03-30 18:36:26,279 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:36:26,833 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 18:36:26,834 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 18:36:26,834 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:46:26 CEST)" executed successfully
+2025-03-30 18:46:26,278 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:56:26 CEST)" (scheduled at 2025-03-30 18:46:26.277954+02:00)
+2025-03-30 18:46:26,278 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:46:26,573 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 18:46:26,574 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 18:46:26,574 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 18:56:26 CEST)" executed successfully
+2025-03-30 18:56:26,278 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:06:26 CEST)" (scheduled at 2025-03-30 18:56:26.277954+02:00)
+2025-03-30 18:56:26,279 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 18:56:26,596 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 18:56:26,596 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 18:56:26,597 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:06:26 CEST)" executed successfully
+2025-03-30 19:06:26,279 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:16:26 CEST)" (scheduled at 2025-03-30 19:06:26.277954+02:00)
+2025-03-30 19:06:26,281 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 19:06:26,861 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 19:06:26,862 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 19:06:26,863 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:16:26 CEST)" executed successfully
+2025-03-30 19:16:26,279 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:26:26 CEST)" (scheduled at 2025-03-30 19:16:26.277954+02:00)
+2025-03-30 19:16:26,279 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 19:16:26,636 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 19:16:26,637 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 19:16:26,637 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:26:26 CEST)" executed successfully
+2025-03-30 19:26:26,278 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:36:26 CEST)" (scheduled at 2025-03-30 19:26:26.277954+02:00)
+2025-03-30 19:26:26,278 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 19:26:26,547 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 19:26:26,548 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 19:26:26,548 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:36:26 CEST)" executed successfully
+2025-03-30 19:36:26,279 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:46:26 CEST)" (scheduled at 2025-03-30 19:36:26.277954+02:00)
+2025-03-30 19:36:26,281 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 19:36:26,577 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 19:36:26,578 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 19:36:26,578 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:46:26 CEST)" executed successfully
+2025-03-30 19:46:26,294 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:56:26 CEST)" (scheduled at 2025-03-30 19:46:26.277954+02:00)
+2025-03-30 19:46:26,296 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 19:46:26,628 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 19:46:26,629 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 19:46:26,629 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 19:56:26 CEST)" executed successfully
+2025-03-30 19:56:26,285 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:06:26 CEST)" (scheduled at 2025-03-30 19:56:26.277954+02:00)
+2025-03-30 19:56:26,285 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 19:56:26,290 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104865a90>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 19:56:26,291 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 19:56:26,291 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:06:26 CEST)" executed successfully
+2025-03-30 20:06:26,285 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:16:26 CEST)" (scheduled at 2025-03-30 20:06:26.277954+02:00)
+2025-03-30 20:06:26,286 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 20:06:26,290 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104866350>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 20:06:26,290 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 20:06:26,290 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:16:26 CEST)" executed successfully
+2025-03-30 20:16:26,279 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:26:26 CEST)" (scheduled at 2025-03-30 20:16:26.277954+02:00)
+2025-03-30 20:16:26,279 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 20:16:26,284 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104866d50>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 20:16:26,284 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 20:16:26,284 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:26:26 CEST)" executed successfully
+2025-03-30 20:26:26,285 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:36:26 CEST)" (scheduled at 2025-03-30 20:26:26.277954+02:00)
+2025-03-30 20:26:26,285 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 20:26:26,290 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1048656d0>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 20:26:26,290 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 20:26:26,290 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:36:26 CEST)" executed successfully
+2025-03-30 20:36:26,288 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:46:26 CEST)" (scheduled at 2025-03-30 20:36:26.277954+02:00)
+2025-03-30 20:36:26,288 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 20:36:26,660 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 20:36:26,661 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 20:36:26,661 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:46:26 CEST)" executed successfully
+2025-03-30 20:46:26,280 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:56:26 CEST)" (scheduled at 2025-03-30 20:46:26.277954+02:00)
+2025-03-30 20:46:26,281 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 20:46:26,840 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 20:46:26,841 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 20:46:26,841 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 20:56:26 CEST)" executed successfully
+2025-03-30 20:56:26,348 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:06:26 CEST)" (scheduled at 2025-03-30 20:56:26.277954+02:00)
+2025-03-30 20:56:26,348 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 20:56:26,650 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 20:56:26,651 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 20:56:26,652 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:06:26 CEST)" executed successfully
+2025-03-30 21:06:26,288 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:16:26 CEST)" (scheduled at 2025-03-30 21:06:26.277954+02:00)
+2025-03-30 21:06:26,290 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 21:06:26,745 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 21:06:26,746 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 21:06:26,746 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:16:26 CEST)" executed successfully
+2025-03-30 21:16:26,283 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:26:26 CEST)" (scheduled at 2025-03-30 21:16:26.277954+02:00)
+2025-03-30 21:16:26,284 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 21:16:26,901 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 21:16:26,902 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 21:16:26,902 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:26:26 CEST)" executed successfully
+2025-03-30 21:26:26,281 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:36:26 CEST)" (scheduled at 2025-03-30 21:26:26.277954+02:00)
+2025-03-30 21:26:26,281 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 21:26:26,817 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 21:26:26,818 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 21:26:26,818 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:36:26 CEST)" executed successfully
+2025-03-30 21:36:26,291 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:46:26 CEST)" (scheduled at 2025-03-30 21:36:26.277954+02:00)
+2025-03-30 21:36:26,292 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 21:36:26,831 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 21:36:26,832 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 21:36:26,833 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:46:26 CEST)" executed successfully
+2025-03-30 21:46:26,280 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:56:26 CEST)" (scheduled at 2025-03-30 21:46:26.277954+02:00)
+2025-03-30 21:46:26,281 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 21:46:26,285 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1048665d0>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 21:46:26,286 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 21:46:26,286 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 21:56:26 CEST)" executed successfully
+2025-03-30 21:56:26,290 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:06:26 CEST)" (scheduled at 2025-03-30 21:56:26.277954+02:00)
+2025-03-30 21:56:26,290 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 21:56:26,296 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104866c10>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 21:56:26,296 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 21:56:26,296 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:06:26 CEST)" executed successfully
+2025-03-30 22:06:26,290 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:16:26 CEST)" (scheduled at 2025-03-30 22:06:26.277954+02:00)
+2025-03-30 22:06:26,290 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 22:06:26,294 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104867110>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 22:06:26,294 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 22:06:26,294 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:16:26 CEST)" executed successfully
+2025-03-30 22:16:26,283 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:26:26 CEST)" (scheduled at 2025-03-30 22:16:26.277954+02:00)
+2025-03-30 22:16:26,285 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 22:16:26,288 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1048674d0>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 22:16:26,289 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 22:16:26,289 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:26:26 CEST)" executed successfully
+2025-03-30 22:26:26,285 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:36:26 CEST)" (scheduled at 2025-03-30 22:26:26.277954+02:00)
+2025-03-30 22:26:26,285 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 22:26:26,299 - __main__ - ERROR - Erreur lors de la récupération du prix de l'or: HTTPSConnectionPool(host='www.alphavantage.co', port=443): Max retries exceeded with url: /query?function=COMMODITY_INTRADAY&symbol=GOLD&interval=5min&apikey=X9RWZIBCZ070GKEB (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104867750>: Failed to resolve 'www.alphavantage.co' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-03-30 22:26:26,299 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 22:26:26,299 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:36:26 CEST)" executed successfully
+2025-03-30 22:36:26,304 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:46:26 CEST)" (scheduled at 2025-03-30 22:36:26.277954+02:00)
+2025-03-30 22:36:26,306 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 22:36:26,983 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 22:36:26,984 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 22:36:26,984 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:46:26 CEST)" executed successfully
+2025-03-30 22:46:26,287 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:56:26 CEST)" (scheduled at 2025-03-30 22:46:26.277954+02:00)
+2025-03-30 22:46:26,288 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 22:46:26,849 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 22:46:26,850 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 22:46:26,850 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 22:56:26 CEST)" executed successfully
+2025-03-30 22:56:26,283 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:06:26 CEST)" (scheduled at 2025-03-30 22:56:26.277954+02:00)
+2025-03-30 22:56:26,283 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 22:56:26,741 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 22:56:26,742 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 22:56:26,742 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:06:26 CEST)" executed successfully
+2025-03-30 23:06:26,282 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:16:26 CEST)" (scheduled at 2025-03-30 23:06:26.277954+02:00)
+2025-03-30 23:06:26,284 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 23:06:26,775 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 23:06:26,775 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 23:06:26,776 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:16:26 CEST)" executed successfully
+2025-03-30 23:16:26,278 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:26:26 CEST)" (scheduled at 2025-03-30 23:16:26.277954+02:00)
+2025-03-30 23:16:26,278 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 23:16:26,882 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 23:16:26,882 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 23:16:26,882 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:26:26 CEST)" executed successfully
+2025-03-30 23:26:26,278 - apscheduler.executors.default - INFO - Running job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:36:26 CEST)" (scheduled at 2025-03-30 23:26:26.277954+02:00)
+2025-03-30 23:26:26,279 - __main__ - INFO - Démarrage de la tâche planifiée
+2025-03-30 23:26:26,906 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
+2025-03-30 23:26:26,906 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
+2025-03-30 23:26:26,907 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:36:26 CEST)" executed successfully

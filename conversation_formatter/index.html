@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formateur de Conversation</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Formateur de Conversation</h1>
+            <p>Transformez vos fichiers de conversation en format WhatsApp</p>
+        </header>
+
+        <section class="upload-section">
+            <div class="file-upload">
+                <h2>Chargez votre fichier de conversation</h2>
+                <input type="file" id="conversation-file" accept=".txt">
+                <label for="conversation-file" class="custom-file-upload">
+                    <span>Choisir un fichier</span>
+                </label>
+                <p class="file-name" id="file-name">Aucun fichier sélectionné</p>
+            </div>
+            <p>ou</p>
+            <div class="text-input">
+                <h2>Collez votre conversation</h2>
+                <textarea id="conversation-text" placeholder="Collez le contenu de votre conversation ici..."></textarea>
+            </div>
+            <button id="convert-btn" class="primary-btn">Convertir</button>
+            <button id="use-example-btn" class="secondary-btn">Utiliser l'exemple</button>
+        </section>
+
+        <section class="preview-section" id="preview-section">
+            <h2>Aperçu de la conversation</h2>
+            <div class="chat-container">
+                <div class="chat-header">
+                    <div class="chat-header-info">
+                        <h3 id="chat-title">Conversation</h3>
+                        <p id="chat-participants"></p>
+                    </div>
+                </div>
+                <div class="chat-body" id="chat-body">
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html> 

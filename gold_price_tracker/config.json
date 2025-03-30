@@ -1,0 +1,14 @@
+{
+    "api_key": "X9RWZIBCZ070GKEB",
+    "smtp": {
+        "server": "smtp.mailersend.net",
+        "port": 587,
+        "use_tls": true,
+        "username": "MS_ft46NL@trial-pzkmgq7o811l059v.mlsender.net",
+        "password": "mssp.CJQCRas.zr6ke4njx19gon12.JG7C0M6",
+        "sender_email": "MS_ft46NL@trial-pzkmgq7o811l059v.mlsender.net"
+    },
+    "recipients": [
+        "alessiobenincasa@hotmail.fr"
+    ]
+}
