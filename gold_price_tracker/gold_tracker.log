@@ -255,3 +255,4 @@
 2025-03-30 23:26:26,906 - __main__ - ERROR - Impossible d'extraire le prix de l'or des données reçues.
 2025-03-30 23:26:26,906 - __main__ - ERROR - Impossible d'envoyer l'email car les données du prix de l'or sont manquantes
 2025-03-30 23:26:26,907 - apscheduler.executors.default - INFO - Job "job (trigger: interval[0:10:00], next run at: 2025-03-30 23:36:26 CEST)" executed successfully
+2025-03-30 23:32:10,131 - __main__ - INFO - Service arrêté manuellement
