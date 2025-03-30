@@ -17,9 +17,8 @@ Un script Python qui:
 
 ### Déploiement
 Le script peut être déployé via:
-- Service systemd (Linux)
 - Docker
-- Cron
+
 
 [Voir documentation détaillée](gold_price_tracker/README.md)
 
